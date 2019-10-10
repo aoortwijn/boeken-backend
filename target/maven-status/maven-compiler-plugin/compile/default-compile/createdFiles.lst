@@ -1,0 +1,4 @@
+com\littleworld\boeken\model\Boeken.class
+com\littleworld\Application.class
+com\littleworld\boeken\controllers\BoekenController.class
+com\littleworld\boeken\service\BoekenService.class
